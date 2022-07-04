@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Advanced currency converter](https://github.com/Olaoluwa99/advanced_currency_converter.git)
 
-- 📝 I regularly write articles on [...](...)
+- 📝 I regularly write articles on [Hashnode](...) & [DEV](...)
 
 - 📫 How to reach me **Olaoluwadaniel99@gmail.com**
 
