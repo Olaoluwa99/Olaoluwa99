@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://dev.to/olaoluwa99) & [DEV](https://dev.to/olaoluwa99)
 
-- 📫 How to reach me **Olaoluwadaniel99@gmail.com**
+- 📫 How to reach me **olaoluwadaniel99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
