@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Olaoluwa Odewale</h1>
-<h3 align="center">Android developer and Architect</h3>
+<h3 align="center">Android and Multi-platform developer</h3>
 
-- 🔭 I’m currently working on [Advanced currency converter](https://github.com/Olaoluwa99/advanced_currency_converter.git)
+- 🔭 I’m currently working on [Android Sniping Tool](https://github.com/Olaoluwa99/Sniping.git)
 
-- 🌱 I’m currently learning **Implementation tests and UI tests**
+- 🌱 I’m currently learning **Creating Android libraries**
 
-- 👯 I’m looking to collaborate on [Advanced currency converter](https://github.com/Olaoluwa99/advanced_currency_converter.git)
+- 👯 I’m looking to collaborate on [Android Sniping tool](https://github.com/Olaoluwa99/Sniping.git)
 
 - 📝 I regularly write articles on [Hashnode](https://dev.to/olaoluwa99) & [DEV](https://dev.to/olaoluwa99)
 
