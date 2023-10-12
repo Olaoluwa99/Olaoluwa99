@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/Olaoluwa99?tab=Repositories)
 
-- 📝 I regularly write articles on [https://dev.to/olaoluwa99](https://dev.to/olaoluwa99)
+- 📝 I regularly write articles on [DEV](https://dev.to/olaoluwa99)
 
 - 📫 How to reach me **olaoluwaodewale99@gmail.com**
 
