@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Compose multiplatform, Ios development.**
 
-- 👯 I’m looking to collaborate on [Floating Sniping button for Android](https://github.com/Olaoluwa99/Sniping.git)
+- 👯 I’m looking to collaborate on [SmartText-Assistant](https://github.com/Olaoluwa99/SmartText-Assistant.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Olaoluwa99?tab=repositories](https://github.com/Olaoluwa99?tab=repositories)
 
