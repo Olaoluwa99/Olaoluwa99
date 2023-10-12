@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [SmartText-Assistant](https://github.com/Olaoluwa99/SmartText-Assistant.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Olaoluwa99?tab=repositories](https://github.com/Olaoluwa99?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/Olaoluwa99?tab=Repositories)
 
 - 📝 I regularly write articles on [https://dev.to/olaoluwa99](https://dev.to/olaoluwa99)
 
