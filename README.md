@@ -22,8 +22,7 @@
 - ⚡ Fun fact **I enjoy observing the growth in building construction.**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+1. [ImageEncoder: Your Ultimate Privacy Solution for Image Sharing](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
