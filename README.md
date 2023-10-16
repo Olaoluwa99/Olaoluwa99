@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/od_odewale" target="blank"><img src="https://img.shields.io/twitter/follow/od_odewale?logo=twitter&style=for-the-badge" alt="od_odewale" /></a> </p>
 
-- 🔭 I’m currently working on [ImageEncoder](https://github.com/Olaoluwa99/ImageEncoder.git)
+- 🔭 I’m currently working on [ImageEncoder](https://github.com/Olaoluwa99/ImageEncoder.git) & [SnipeNow](https://github.com/Olaoluwa99/SnipeNow.git)
 
 - 🌱 I’m currently learning **Compose multiplatform, Ios development.**
 
-- 👯 I’m looking to collaborate on [SmartText-Assistant](https://github.com/Olaoluwa99/SmartText-Assistant.git)
+- 👯 I’m looking to collaborate on [SnipeNow](https://github.com/Olaoluwa99/SnipeNow.git)
 
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/Olaoluwa99?tab=Repositories)
 
