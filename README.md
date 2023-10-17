@@ -23,6 +23,7 @@
 
 ### Blogs posts
 1. [ImageEncoder: Your Ultimate Privacy Solution for Image Sharing](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4)
+2. [Introducing SnipeNow: Capture Screenshots with Ease](https://dev.to/olaoluwa99/introducing-snipenow-capture-screenshots-with-ease-gal) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
