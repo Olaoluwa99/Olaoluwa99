@@ -1,7 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/Olaoluwa99/Olaoluwa99/main/2045.jpg) 
 
-<h1 align="center">Hi 👋, I'm Olaoluwa Odewale</h1>
-<h3 align="center">An enthusiastic developer specializing in Android development.</h3>
+# Olaoluwa Odewale
+
+### An enthusiastic developer specializing in Android development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaoluwa99&label=Profile%20views&color=0e75b6&style=flat" alt="olaoluwa99" /> </p>
 
