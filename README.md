@@ -18,15 +18,15 @@
 
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/Olaoluwa99?tab=Repositories)
 
-- 📝 I regularly write articles on [DEV](https://dev.to/olaoluwa99)
+- 📝 I regularly write articles on [DEV](https://dev.to/olaoluwa99) & [Hashnode](https://olaoluwa.hashnode.dev/) 
 
 - 📫 How to reach me **olaoluwaodewale99@gmail.com**
 
 - ⚡ Fun fact **I enjoy observing the growth in building construction.**
 
 ### Blogs posts
-1. [ImageEncoder: Your Ultimate Privacy Solution for Image Sharing](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4)
-2. [Introducing SnipeNow: Capture Screenshots with Ease](https://dev.to/olaoluwa99/introducing-snipenow-capture-screenshots-with-ease-gal) 
+1. **ImageEncoder: Your Ultimate Privacy Solution for Image Sharing.** [DEV](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4) & [Hashnode](https://olaoluwa.hashnode.dev/ImageEncoder-Your-Ultimate-Privacy-Solution-for-Image-Sharing)
+2. **Introducing SnipeNow: Capture Screenshots with Ease** [DEV](https://dev.to/olaoluwa99/introducing-snipenow-capture-screenshots-with-ease-gal) & [Hashnode](https://olaoluwa.hashnode.dev/introducing-SnipeNow-Capture-partial-screenshots-with-ease) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
