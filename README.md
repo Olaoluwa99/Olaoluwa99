@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [ImageEncoder](https://github.com/Olaoluwa99/ImageEncoder.git) & [SnipeNow](https://github.com/Olaoluwa99/SnipeNow.git)
 
-- 🌱 I’m currently learning **Automated testing.**
+- 🌱 I’m currently learning **Compose multiplatform.**
 
 - 👯 I’m looking to collaborate on [SnipeNow](https://github.com/Olaoluwa99/SnipeNow.git)
 
