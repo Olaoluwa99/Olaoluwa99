@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Olaoluwa99/Olaoluwa99/main/2046.jpg) 
+![Banner](https://raw.githubusercontent.com/Olaoluwa99/Olaoluwa99/main/2050.jpg) 
 
 # Olaoluwa Odewale
 
