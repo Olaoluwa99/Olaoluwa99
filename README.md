@@ -26,7 +26,8 @@
 
 ### Blogs posts
 1. **ImageEncoder: Your Ultimate Privacy Solution for Image Sharing.** [DEV](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4) & [Hashnode](https://olaoluwa.hashnode.dev/ImageEncoder-Your-Ultimate-Privacy-Solution-for-Image-Sharing)
-2. **Introducing SnipeNow: Capture Screenshots with Ease** [DEV](https://dev.to/olaoluwa99/introducing-snipenow-capture-screenshots-with-ease-gal) & [Hashnode](https://olaoluwa.hashnode.dev/introducing-SnipeNow-Capture-partial-screenshots-with-ease) 
+2. **Introducing SnipeNow: Capture Screenshots with Ease** [DEV](https://dev.to/olaoluwa99/introducing-snipenow-capture-screenshots-with-ease-gal) & [Hashnode](https://olaoluwa.hashnode.dev/introducing-SnipeNow-Capture-partial-screenshots-with-ease)
+3. **Demystifying Android Architecture: A City Analogy** [DEV](https://dev.to/olaoluwa99/DEMYSTIFYING-ANDROID-ARCHITECTURE-A-CITY-ANALOGY-3L4F)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
