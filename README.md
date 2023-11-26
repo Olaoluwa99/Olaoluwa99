@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Olaoluwa99/Olaoluwa99/main/2050.jpg) 
 
-# Olaoluwa Odewale
+# Olaoluwa Daniel Odewale
 
 ### An enthusiastic developer specializing in Android development.
 
