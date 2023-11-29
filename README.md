@@ -2,7 +2,7 @@
 
 # Olaoluwa Daniel Odewale
 
-### Self-taught Android Developer with a passion for mobile app development and a background in architecture. My diverse skill set includes proficiency in Kotlin, Java, Jetpack Compose, and XML, coupled with a strong portfolio of app designs, open source contributions, and technical writing. I am dedicated to continuously improving and am excited to bring my skills to dynamic development environments.
+Self-taught Android Developer with a passion for mobile app development and a background in architecture. My diverse skill set includes proficiency in Kotlin, Java, Jetpack Compose, and XML, coupled with a strong portfolio of app designs, open source contributions, and technical writing. I am dedicated to continuously improving and am excited to bring my skills to dynamic development environments.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaoluwa99&label=Profile%20views&color=0e75b6&style=flat" alt="olaoluwa99" /> </p>
 
