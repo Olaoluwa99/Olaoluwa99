@@ -24,6 +24,10 @@ Self-taught Android Developer with a passion for mobile app development and a ba
 
 - ⚡ Fun fact **I enjoy observing the growth in building construction.**
 
+### Projects (Google playstore) 
+1. [TransVerse](https://play.google.com/store/apps/details?id=com.easit.aiscanner)
+2. [CipherLock](https://play.google.com/store/apps/details?id=com.easit.cipher)
+
 ### Blogs posts
 1. **ImageEncoder: Your Ultimate Privacy Solution for Image Sharing.** [DEV](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4) & [Hashnode](https://olaoluwa.hashnode.dev/ImageEncoder-Your-Ultimate-Privacy-Solution-for-Image-Sharing)
 2. **Introducing SnipeNow: Capture Screenshots with Ease** [DEV](https://dev.to/olaoluwa99/introducing-snipenow-capture-screenshots-with-ease-gal) & [Hashnode](https://olaoluwa.hashnode.dev/introducing-SnipeNow-Capture-partial-screenshots-with-ease)
