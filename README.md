@@ -1,6 +1,6 @@
 ![Banner image](https://raw.githubusercontent.com/Olaoluwa99/Olaoluwa99/main/2050.jpg) 
 
-# Olaoluwa Daniel Odewale
+# Olaoluwa Odewale
 
 Self-taught Android Developer with a passion for mobile app development and a background in architecture. My diverse skill set includes proficiency in Kotlin, Java, Jetpack Compose, and XML, coupled with a strong portfolio of app designs, open source contributions, and technical writing. I am dedicated to continuously improving and am excited to bring my skills to dynamic development environments.
 
