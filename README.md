@@ -10,7 +10,7 @@ Self-taught Android Developer with a passion for mobile app development and a ba
 
 <p align="left"> <a href="https://twitter.com/od_odewale" target="blank"><img src="https://img.shields.io/twitter/follow/od_odewale?logo=twitter&style=for-the-badge" alt="od_odewale" /></a> </p>
 
-- 🔭 I’m currently working on [SnipeNow](https://github.com/Olaoluwa99/SnipeNow.git)
+- 🔭 I’m currently working on [ImageEncoder](https://github.com/Olaoluwa99/ImageEncoder)
 
 - 🌱 I’m currently learning **Compose multiplatform.**
 
