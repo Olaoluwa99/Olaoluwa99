@@ -12,7 +12,7 @@ Self-taught Android Developer with a passion for mobile app development and a ba
 
 - 🔭 I’m currently working on [ImageEncoder](https://github.com/Olaoluwa99/ImageEncoder)
 
-- 🌱 I’m currently learning **Image manipulation**
+- 🌱 I’m currently learning **Compose multiplatform**
 
 - 👯 I’m looking to collaborate on [SnipeNow](https://github.com/Olaoluwa99/SnipeNow.git)
 
