@@ -11,8 +11,9 @@ Self-taught Android Developer with a passion for mobile app development and a ba
 <p align="left"> <a href="https://twitter.com/od_odewale" target="blank"><img src="https://img.shields.io/twitter/follow/od_odewale?logo=twitter&style=for-the-badge" alt="od_odewale" /></a> </p>
 
 ### Projects (Google playstore) 
-1. [TransVerse](https://play.google.com/store/apps/details?id=com.easit.aiscanner)
-2. [CipherLock](https://play.google.com/store/apps/details?id=com.easit.cipher)
+1. [TailoR - ATS Resume Expert](https://play.google.com/store/apps/details?id=com.easit.tailor)
+2. [TransVerse](https://play.google.com/store/apps/details?id=com.easit.aiscanner)
+3. [CipherLock Encryption](https://play.google.com/store/apps/details?id=com.easit.cipher)
 
 ### Blogs posts
 1. **ImageEncoder: Your Ultimate Privacy Solution for Image Sharing.** [DEV](https://dev.to/olaoluwa99/imageencoder-your-ultimate-privacy-solution-for-image-sharing-1nj4) & [Hashnode](https://olaoluwa.hashnode.dev/ImageEncoder-Your-Ultimate-Privacy-Solution-for-Image-Sharing)
